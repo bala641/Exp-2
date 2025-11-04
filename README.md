@@ -51,29 +51,29 @@ Label messages with sequence numbers and direction arrows.
 
 
 # DIAGRAMS:
-## Usecase Diagram
-![Screenshot 2025-05-19 104534](https://github.com/user-attachments/assets/520a4004-aeff-42de-b5e1-e5a02f56e1be)
+# Use Case Diagram
 
+![UseCaseDiagram1](https://github.com/user-attachments/assets/ada24cb8-9ee8-4edc-a386-cdac31414433)
 
-## Class Diagram
-![Screenshot 2025-05-19 105527](https://github.com/user-attachments/assets/2c0fd39d-f9fe-414f-8178-67d93aa187eb)
+# Class Diagram
 
+![ClassDiagram1](https://github.com/user-attachments/assets/46ea0e48-e6b4-423b-a2c0-067a3057508c)
 
-## Activity Diagram
-![Screenshot 2025-05-19 105706](https://github.com/user-attachments/assets/cbd2d5e4-a472-4a19-bff9-be45bd94be4c)
+# Actvity Diagram
 
+![ActivityDiagram1](https://github.com/user-attachments/assets/5845d2bb-d58b-47b8-a5c4-98c67deee2bc)
 
-## Communication Diagram
-![Screenshot 2025-05-19 104606](https://github.com/user-attachments/assets/7f2ed118-4b04-4db5-b909-14209bf5bc5f)
+# Package Diagram
 
+![PackageDiagram1](https://github.com/user-attachments/assets/3a5ccb7f-c737-4254-8d43-0dc5117ad7e9)
 
-## Package Diagram
-![Screenshot 2025-05-19 105234](https://github.com/user-attachments/assets/ab182059-a5da-4b3d-9134-3862b0cb65ca)
+# Communication Diagram
 
+![CommunicationDiagram1](https://github.com/user-attachments/assets/ab079436-bc2c-4182-9c26-809d371860b3)
 
-## Sequence Diagram
-![Screenshot 2025-05-19 104644](https://github.com/user-attachments/assets/4adf8082-20e4-4a4a-9879-66405ad9164c)
+# Sequence Diagram
 
+![SequenceDiagram1](https://github.com/user-attachments/assets/cd2b498b-4d6e-4e39-a37c-4714c5d679ab)
 
 
 # RESULT:
